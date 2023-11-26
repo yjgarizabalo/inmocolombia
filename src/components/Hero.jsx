@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <Container style={{ minHeight: '60vh', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
       <Typography variant="h2" align="center" color="text.primary" gutterBottom>
-        Tu mejor para encontrar casa
+        Lo para encontrar casa 🏠
       </Typography>
       <Typography variant="h5" align="center" color="text.secondary" paragraph>
         Encuentra la casa de tus sueños.
